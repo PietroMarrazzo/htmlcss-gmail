@@ -1,6 +1,6 @@
 /* background pagina e font */
 body {
-    background-image: url(sfondo.jpg);
+    background-image: url('https://cdn.pixabay.com/photo/2017/02/07/09/02/wood-2045379_960_720.jpg');
     margin-left: 5%;
     margin-right: 15%;
     background-size: cover;
