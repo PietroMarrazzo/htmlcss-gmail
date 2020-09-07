@@ -1,0 +1,8 @@
+Ciao!
+
+Ho rifinito il compito smanettando un po' sui colori e sui font di google.
+
+Non riesco però ad allineare verticalmente al centro le caselle di testo dell'oggetto email e del testo email.
+Ho provato ad inserire vertical-align: center sia nella classe .preview, sia nelle classi .oggetto_testo/.testo.
+
+Riuscite a farmi sapere dove è l'errore? Grazie tantissimo!

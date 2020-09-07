@@ -1,0 +1,104 @@
+/* background pagina e font */
+body {
+    background-image: url(sfondo.jpg);
+    margin-left: 5%;
+    margin-right: 15%;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+
+/* icona e titolo */
+header {
+  border-bottom: 4px solid white;
+}
+
+
+header img {
+    vertical-align: middle;
+    width: 130px;
+    height: 130px;
+}
+
+
+#gmail {
+  font-size: 35px;
+  color: white;
+}
+
+
+/* sezione ricerca */
+#ricerca {
+  border-bottom: 2px solid;
+  border-color: #e6e6e6;
+  font-size: 35px;
+  color: white;
+}
+
+
+#non_letti {
+    background-color: orange;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+
+
+/* sezione preview */
+#sezione-pre {
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: gray;
+}
+
+
+.preview {
+  font-size: 20px;
+  background-color: #c3c3c3;
+  height: 25px;
+  border: 1px solid black;
+}
+
+
+.preview.white {
+  background-color: white;
+}
+
+
+#stella {
+  color: yellow;
+}
+
+
+.oggetto_testo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.testo {
+    color: #636363;
+}
+
+
+/* footer */
+footer {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  border-top: 2px solid white;
+  padding-top: 10px;
+}
+
+
+#logo {
+  font-weight: bold;
+}
+
+
+#by{
+  font-style: italic;
+  font-size: 20px;
+}
